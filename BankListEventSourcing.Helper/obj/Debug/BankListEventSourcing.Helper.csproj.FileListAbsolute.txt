@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\BankListEventSourcing\BankListEventSourcing.Helper\bin\Debug\BankListEventSourcing.Helper.dll
+C:\Users\admin\source\repos\BankListEventSourcing\BankListEventSourcing.Helper\bin\Debug\BankListEventSourcing.Helper.pdb
+C:\Users\admin\source\repos\BankListEventSourcing\BankListEventSourcing.Helper\obj\Debug\BankListEventSourcing.Helper.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\BankListEventSourcing\BankListEventSourcing.Helper\obj\Debug\BankListEventSourcing.Helper.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BankListEventSourcing\BankListEventSourcing.Helper\obj\Debug\BankListEventSourcing.Helper.dll
+C:\Users\admin\source\repos\BankListEventSourcing\BankListEventSourcing.Helper\obj\Debug\BankListEventSourcing.Helper.pdb

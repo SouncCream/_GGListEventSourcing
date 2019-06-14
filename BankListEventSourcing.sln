@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankListEventSourcing", "BankListEventSourcing\BankListEventSourcing.csproj", "{15D206DB-3552-4CCA-A678-8A34324B4A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankListEventSourcing.Manager", "BankListEventSourcing.Manager\BankListEventSourcing.Manager.csproj", "{2D718681-949B-4A45-91B6-EBA4DD034823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankListEventSourcing.Repository", "BankListEventSourcing.Repository\BankListEventSourcing.Repository.csproj", "{5179913D-59FE-4EAB-8F44-96B476BE93BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankListEventSourcing.Helper", "BankListEventSourcing.Helper\BankListEventSourcing.Helper.csproj", "{1E2A6E4C-FFED-46D2-B147-27C2B79646DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankListEventSourcing.Interface", "BankListEventSourcing.Interface\BankListEventSourcing.Interface.csproj", "{45DCDAFE-6579-4617-8506-84EDBADB0534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D206DB-3552-4CCA-A678-8A34324B4A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D206DB-3552-4CCA-A678-8A34324B4A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D206DB-3552-4CCA-A678-8A34324B4A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D206DB-3552-4CCA-A678-8A34324B4A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D718681-949B-4A45-91B6-EBA4DD034823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D718681-949B-4A45-91B6-EBA4DD034823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D718681-949B-4A45-91B6-EBA4DD034823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D718681-949B-4A45-91B6-EBA4DD034823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5179913D-59FE-4EAB-8F44-96B476BE93BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5179913D-59FE-4EAB-8F44-96B476BE93BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5179913D-59FE-4EAB-8F44-96B476BE93BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5179913D-59FE-4EAB-8F44-96B476BE93BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2A6E4C-FFED-46D2-B147-27C2B79646DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2A6E4C-FFED-46D2-B147-27C2B79646DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2A6E4C-FFED-46D2-B147-27C2B79646DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2A6E4C-FFED-46D2-B147-27C2B79646DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DCDAFE-6579-4617-8506-84EDBADB0534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DCDAFE-6579-4617-8506-84EDBADB0534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DCDAFE-6579-4617-8506-84EDBADB0534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DCDAFE-6579-4617-8506-84EDBADB0534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C560D76-476D-484A-B8C8-A296D1855DA0}
+	EndGlobalSection
+EndGlobal
